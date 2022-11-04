@@ -1,0 +1,13 @@
+.place__address {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #fff;
+  transition: 0.3s ease;
+}
+
+.place__address:hover {
+  opacity: 0.8;
+}

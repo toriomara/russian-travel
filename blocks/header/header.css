@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 48px 0;
+  font-family: Inter, Arial, sans-serif;
+}
+
+@media screen and (max-width: 1124px) {
+  .header {
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .header {
+    margin: 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .header {
+    margin: 0 16px 0;
+  }
+}

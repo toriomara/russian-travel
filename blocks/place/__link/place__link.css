@@ -1,0 +1,11 @@
+.place__link {
+  display: grid;
+  grid-row-gap: 12px;
+  align-self: end;
+}
+
+@media screen and (max-width: 568px) {
+  .place__link {
+    padding: 0 16px;
+  }
+}
