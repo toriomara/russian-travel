@@ -8,3 +8,15 @@
   font-weight: 400;
   background-color: #2a2c2f;
 }
+
+@media screen and (max-width: 984px) {
+  .page {
+    padding: 28px 0 24px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .page {
+    padding: 16px 0 24px;
+  }
+}

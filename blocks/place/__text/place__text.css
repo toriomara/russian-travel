@@ -1,7 +1,6 @@
 .place__text {
   display: grid;
   grid-row-gap: 26px;
-  /* width: 484px; */
   height: fit-content;
   padding: 0;
   margin: 0;
