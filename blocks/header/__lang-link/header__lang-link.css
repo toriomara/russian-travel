@@ -1,0 +1,23 @@
+.header__lang-link {
+  align-self: flex;
+  font-size: 24px;
+  line-height: 28px;
+  list-style-type: none;
+  text-decoration: none;
+  color: #fff;
+}
+
+.header__lang-link:nth-child(2) {
+  margin-left: 18px;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 568px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
