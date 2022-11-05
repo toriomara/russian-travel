@@ -1,5 +1,5 @@
 .place__text {
-  /* display: grid; */
+  display: grid;
   grid-row-gap: 26px;
   /* width: 484px; */
   height: fit-content;
