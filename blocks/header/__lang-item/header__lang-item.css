@@ -1,0 +1,16 @@
+.header__lang-item {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  color: #fff;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-item {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

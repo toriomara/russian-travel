@@ -6,8 +6,9 @@
 /* Header */
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
-@import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
+@import url('../blocks/header/__lang-items/header__lang-items.css');
+@import url('../blocks/header/__lang-item/header__lang-item.css');
+@import url('../blocks/header/__lang-item/_active/header__lang-item_active.css');
 @import url('../blocks/header/__lang/header__lang.css');
 /* Content */
 @import url('../blocks/content/content.css');
@@ -23,11 +24,9 @@
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
-@import url('../blocks/intro/__span-regular/intro__span-regular.css');
+@import url('../blocks/intro/__span-accent/intro__span-accent.css');
 /* Photo Grid */
 @import url('../blocks/photo-grid/photo-grid.css');
-@import url('../blocks/photo-grid/__list/photo-grid__list.css');
-@import url('../blocks/photo-grid/__item/photo-grid__item.css');
 @import url('../blocks/photo-grid/__image/photo-grid__image.css');
 /* Places */
 @import url('../blocks/places/places.css');
