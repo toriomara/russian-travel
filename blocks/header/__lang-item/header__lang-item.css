@@ -1,12 +1,12 @@
 .header__lang-item {
-  text-decoration: none;
+  text-align: right;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
-  text-align: right;
   text-transform: capitalize;
   color: #fff;
+  text-decoration: none;
   transition: 0.3s ease;
 }
 
